@@ -1,0 +1,42 @@
+============================
+cmd.help
+============================
+gives you a menu that has a list of basic commands
+
+
+============================
+cmd.help_advanced
+============================
+gives you a menu that has a list of advanced commands
+
+
+advanced command      ⬇ ️
+============================
+cmd.hostname
+============================
+gives your device hostname
+
+
+============================
+cmd.changelog
+============================
+shows tterms changelog/updates
+
+
+advanced command      ⬇ ️
+============================
+cmd.ipaddress
+============================
+shows your device ip
+
+
+============================
+cmd.time
+============================
+shows your time
+
+
+============================
+cmd.date
+============================
+shows your date
